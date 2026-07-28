@@ -1,4 +1,4 @@
-# YourTutor – Online Tutor and Tuition Management Platform
+# YourTutor - Online Tutor and Tuition Management Platform
 
 A database-driven web application developed as an academic mini-project for the **15CSL58 - DBMS Laboratory** course under **Bachelor of Engineering in Information Science at Visvesvaraya Technological University (VTU)**.
 
